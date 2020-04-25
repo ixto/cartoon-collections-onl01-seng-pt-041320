@@ -4,7 +4,6 @@ def roll_call_dwarves(dwarf_names)
   names << "#{index +1}, #{name}"
   end
     puts names
-                             # Your code here
 end
 
 def summon_captain_planet(planeteer_calls)
